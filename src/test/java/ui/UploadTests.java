@@ -1,7 +1,5 @@
 package ui;
 
-import com.codeborne.selenide.Configuration;
-import com.codeborne.selenide.FileDownloadMode;
 import com.codeborne.selenide.SelenideElement;
 import io.qameta.allure.Story;
 import org.junit.jupiter.api.Test;
